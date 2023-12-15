@@ -1,4 +1,4 @@
-# CODSOFT
+# CODSOFT - ARTIFICIAL INTELLIGENCE INTERNSHIP
 
 # TASK 1 : CHATBOT WITH RULE-BASED RESPONSES
 Build a simple chatbot that responds to user inputs based on predefined rules. 
